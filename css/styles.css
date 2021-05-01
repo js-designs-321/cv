@@ -1,0 +1,134 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  color: #40514E;
+}
+
+h1{
+  margin: 50px auto 0;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  color: #66BFBF;
+  line-height: 1.9;
+}
+
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+}
+
+h3{
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.top-container{
+  background-color: #E4F9F5;
+  padding-top: 100px;
+  position: relative;
+}
+
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top:50px;
+}
+
+.bottom-cloud{
+  position: absolute;
+  left:250px;
+  bottom: 300px;
+}
+
+.profile{
+  width: 30%;
+  margin: 75px auto;
+}
+
+.profile p{
+  line-height: 2;
+}
+
+hr{
+  width: 4%;
+  border-style: dotted;
+  border-width: 7.5px 0 0;
+  border-color: #EAF6F6;
+}
+
+.skills{
+  margin-top: 75px;
+}
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.code-img{
+  width: 25%;
+  border-radius: 100%;
+  float: left;
+  margin-right: 30px;
+}
+
+.grp-img{
+  width: 25%;
+  border-radius: 100%;
+  float: right;
+  margin-left: 30px;
+}
+
+.contact-me{
+  margin-top: 75px;
+}
+
+.get-in-touch{
+  font-weight:900;
+}
+
+.contact-me p{
+  margin: 30px auto;
+}
+
+.btn {
+   border-radius: 20px;
+   color: #FFFFFF;
+   font-size: 23px;
+   font-weight: 500;
+   padding: 20px;
+   background-color: #66BFBF;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+   margin: 25px 0 100px;
+   font-family: 'Montserrat', sans-serif;
+}
+
+a{
+  color: #11999E;
+  text-decoration: none;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.bottom-container{
+  height: 100px;
+  background-color: #66BFBF;
+  padding: 30px;
+}
+
+.footer-link{
+  padding: 25px;
+  font-size: 1.3rem;
+  font-weight: 800;
+}
+
+.bottom-container p{
+  padding: 25px;
+  color: #EAF6F6;
+}
